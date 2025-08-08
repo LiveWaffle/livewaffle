@@ -10,5 +10,4 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LiveWaffle&repo=Hackatime-Fusion360)](https://github.com/LiveWaffle/Hackatime-Fusion360)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=LiveWaffle&repo=ASMos)](https://github.com/LiveWaffle/ASMos)
 
